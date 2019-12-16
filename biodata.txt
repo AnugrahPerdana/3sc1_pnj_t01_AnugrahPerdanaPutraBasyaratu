@@ -1,2 +1,3 @@
 NO.REG	: 1820010035
 Nama	: Anugrah Perdana Putra Basyaratu
+Jurusan	: Teknik Informatika
